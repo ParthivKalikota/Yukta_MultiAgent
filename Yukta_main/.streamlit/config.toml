@@ -1,0 +1,12 @@
+# .streamlit/config.toml
+[theme]
+primaryColor="#5E2C85" # A deep purple, or choose your brand color
+backgroundColor="#F0F2F6" # Light grey background
+secondaryBackgroundColor="#FFFFFF" # White for components
+textColor="#262730" # Dark text
+font="sans serif" # Or "serif", "monospace"
+
+[global]
+# Set to true if you want to avoid Streamlit's default hamburger menu/footer
+# disableStatusBar=false
+# hideToolbar=false
